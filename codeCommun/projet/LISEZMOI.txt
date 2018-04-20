@@ -1,0 +1,11 @@
+============== PROJET FINAL ==================
+Contributeurs: Yacer Razouani, Georges Louis, Amar Ghaly, Mazigh Ouanes
+
+
+== Description ==
+Le main.cpp contient un logiciel diagnostique et un programme qui permet au robot de pouvoir suivre un parcours. Le bouton reset permet d'alterner entre ces deux modes.
+
+
+== Comment Installer == 
+1.Ouvrir le terminal dans /codeCommun/projet/fichiers et make.
+2.Ouvrir le terminal dans /codeCommun/projet/src et make puis make install.

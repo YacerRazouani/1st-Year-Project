@@ -1,0 +1,332 @@
+dbt; 
+
+mav 255;
+att 40;
+mar;
+att 40;
+trg;
+mar;
+att 40;
+trd;
+att 40;
+dbc 5;
+dal 127;
+att 40;
+det 127;
+att 40;
+fbc;
+mre 255;
+att 40;
+mar;
+
+%debut musique
+
+dbc 1; 		%debut boucle 
+sgo 64;		%E4
+att 5;
+sgo 67;		%G4
+att 5;
+sgo 69;		%A4
+att 10;
+sgo 69;		%A4
+att 5;
+sar;		%0
+att 5;
+sgo 69;		%A4
+att 5;
+sgo 71;		%B4
+att 5;
+sgo 72;		%C5
+att 10;
+sgo 72;		%C5
+att 5;
+sar;		%0
+att 5;
+sgo 72;		%C5
+att 5;
+sgo 74;		%D5
+att 5;
+sgo 71;		%B4
+att 10;
+sgo 71;		%B4
+att 5;
+sar;		%0	
+att 5;
+sgo 69;		%A4
+att 5;
+sgo 67;		%G4
+att 5;
+sgo 69;		%A4
+att 15;
+sar;		%0	
+att 5;
+fbc;		%fin boucle
+
+sgo 64;		%E4
+att 5;
+sgo 67;		%G4
+att 5;
+sgo 69;		%A4
+att 10;
+sgo 69;		%A4
+att 5;
+sar;		%0
+att 5;
+sgo 69;		%A4
+att 5;
+sgo 72;		%C5
+att 5;
+sgo 74;		%D5
+att 10;
+sgo 74;		%D5
+att 5;
+sar;		%0
+att 5;
+sgo 74;		%D5
+att 5;
+sgo 76;		%E5
+att 5;
+sgo 77;		%F5
+att 10;
+sgo 77;		%F5
+att 5;
+sar;		%0
+att 5;
+sgo 76;		%E5
+att 5;
+sgo 74;		%D5
+att 5;
+sgo 76;		%E5
+att 5;
+sgo 69;		%A4
+att 10;
+sar;		%0
+att 5;
+
+sgo 69;		%A4
+att 5;
+sgo 71;		%B4
+att 5;
+sgo 72;		%C5
+att 10;
+sgo 72;		%C5
+att 5;
+sar;		%0
+att 5;
+sgo 74;		%D5
+att 10;
+sgo 76;		%E5
+att 5;
+sgo 69;		%A4
+att 10;
+sar;		%0
+att 5;
+sgo 69;		%A4
+att 5;
+sgo 72;		%C5
+att 5;
+sgo 71;		%B4
+att 10;
+sgo 71;		%B4
+att 5;
+sar;		%0
+att 5;
+sgo 72;		%C5
+att 5;
+sgo 69;		%A4
+att 5;
+sgo 71;		%B4
+att 15;
+sar;		%0
+att 5;
+
+sgo 69;		%A4
+att 10;
+sgo 69;		%A4
+att 5;
+
+%Repetition du tout debut de la musique
+
+dbc 1; 		%debut boucle 
+sgo 64;		%E4
+att 5;
+sgo 67;		%G4
+att 5;
+sgo 69;		%A4
+att 10;
+sgo 69;		%A4
+att 5;
+sar;		%0
+att 5;
+sgo 69;		%A4
+att 5;
+sgo 71;		%B4
+att 5;
+sgo 72;		%C5
+att 10;
+sgo 72;		%C5
+att 5;
+sar;		%0
+att 5;
+sgo 72;		%C5
+att 5;
+sgo 74;		%D5
+att 5;
+sgo 71;		%B4
+att 10;
+sgo 71;		%B4
+att 5;
+sar;		%0	
+att 5;
+sgo 69;		%A4
+att 5;
+sgo 67;		%G4
+att 5;
+sgo 69;		%A4
+att 15;
+sar;		%0	
+att 5;
+fbc;		%fin boucle
+
+sgo 64;		%E4
+att 5;
+sgo 67;		%G4
+att 5;
+sgo 69;		%A4
+att 10;
+sgo 69;		%A4
+att 5;
+sar;		%0
+att 5;
+sgo 69;		%A4
+att 5;
+sgo 72;		%C5
+att 5;
+sgo 74;		%D5
+att 10;
+sgo 74;		%D5
+att 5;
+sar;		%0
+att 5;
+sgo 74;		%D5
+att 5;
+sgo 76;		%E5
+att 5;
+sgo 77;		%F5
+att 10;
+sgo 77;		%F5
+att 5;
+sar;		%0
+att 5;
+sgo 76;		%E5
+att 5;
+sgo 74;		%D5
+att 5;
+sgo 76;		%E5
+att 5;
+sgo 69;		%A4
+att 10;
+sar;		%0
+att 5;
+
+sgo 69;		%A4
+att 5;
+sgo 71;		%B4
+att 5;
+sgo 72;		%C5
+att 10;
+sgo 72;		%C5
+att 5;
+sar;		%0
+att 5;
+sgo 74;		%D5
+att 10;
+sgo 76;		%E5
+att 5;
+sgo 69;		%A4
+att 10;
+sar;		%0
+att 5;
+sgo 69;		%A4
+att 5;
+sgo 72;		%C5
+att 5;
+sgo 71;		%B4
+att 10;
+sgo 71;		%B4
+att 5;
+sar;		%0
+att 5;
+sgo 72;		%C5
+att 5;
+sgo 69;		%A4
+att 5;
+sgo 71;		%B4
+att 15;
+sar;		%0
+att 5;
+
+%Debut de la fin musique
+
+dbc 1;
+sgo 76;		%E5
+att 10;
+sar;		%0
+att 5;
+sar;		%0
+att 15;
+sgo 77;		%F5
+att 10;
+sar;		%0
+att 5;
+sar;		%0
+att 15;
+sgo 76;		%E5
+att 5;
+sgo 76;		%E5
+att 5;
+sar;		%0
+att 5;
+sgo 79;		%G5
+att 5;
+sar;		%0
+att 5;
+sgo 76;		%E5
+att 5;
+sgo 74;		%D5
+att 5;
+sar;		%0
+att 5;
+sar;		%0
+att 15;
+sgo 74;		%D5
+att 10;
+sar;		%0
+att 5;
+sar;		%0
+att 15;
+sgo 72;		%C5
+att 10;
+sar;		%0
+att 5;
+sar;		%0
+att 15;
+sgo 71;		%B4
+att 5;
+sgo 72;		%C5
+att 5;
+sar;		%0
+att 5;
+sgo 71;		%B4
+att 5;
+sar;		%0
+att 5;
+sgo 69;		%A4
+att 20;
+fbc;
+
+%arret du son
+
+sar;
+
+fin;
